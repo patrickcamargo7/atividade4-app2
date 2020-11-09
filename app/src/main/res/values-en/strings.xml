@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">App 2</string>
+    <string name="received_text">Received Text</string>
+    <string name="received_image">Received Image</string>
+</resources>

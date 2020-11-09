@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Aplicativo 2</string>
+    <string name="received_text">Texto Recebido</string>
+    <string name="received_image">Imagem Recebida</string>
+</resources>
